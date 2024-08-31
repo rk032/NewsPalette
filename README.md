@@ -1,4 +1,4 @@
-# Newsification
+# NewsPalette
 
 ## Introduction
 This project focuses on classifying news articles into different categories such as wellness, politics, entertainment, travel, style, parenting, food, world news, business and sports. The classification is done using the Naive Bayes algorithm. The dataset used for training and testing was sourced from Kaggle.
